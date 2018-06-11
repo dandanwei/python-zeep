@@ -25,6 +25,5 @@ Nil = _StaticIdentity('Nil')
 
 
 AUTO_IMPORT_NAMESPACES = [
-    'http://schemas.xmlsoap.org/soap/encoding/',
-    'http://gist.githubusercontent.com/dandanwei/04992f5ad2ccf2f24f90989b1f953c4a/raw/soap_encoding'
+    'soap_encoding.xml'
 ]
